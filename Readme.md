@@ -23,7 +23,7 @@ This design follows the **event-driven methodology**:
 - **OpenAPI JSON:** [http://localhost:8082/v3/api-docs](http://localhost:8082/v3/api-docs)
 
 ---
-
+ 
 ## REST API (OpenAPI Spec)
 [OpenAPI](docs/openapi-billing.pretty.json)
 
