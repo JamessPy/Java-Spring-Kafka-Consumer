@@ -1,6 +1,6 @@
 # Billing-Service
 
-## Overview
+## Overview 
 Billing-Service is responsible for **handling payments** in an event-driven architecture.
 
 - It **consumes Kafka events** published by Order-Service:
